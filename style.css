@@ -69,7 +69,7 @@ h2 {
 /* HERO SECTION */
 .hero {
   height: 100vh;
-  background: url("images/hero-bg.jpg") center/cover no-repeat;
+  background: url("images/hero-bg.png") center/cover no-repeat;
   position: relative;
 }
 
@@ -149,7 +149,7 @@ h2 {
 
 /* Background images for each card */
 #service1 {
-  background-image: url("our-services/image1.jpg");
+  background-image: url("our-services/image1.png");
 }
 
 #service2 {
@@ -157,7 +157,7 @@ h2 {
 }
 
 #service3 {
-  background-image: url("our-services/image3.png");
+  background-image: url("our-services/image3.jpg");
 }
 
 /* Overlay to make text readable */
